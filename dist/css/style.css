@@ -1,0 +1,24 @@
+h1 {
+    background: #333;
+    color: #fff;
+    padding: 0.5rem;
+}
+
+h2 {
+    text-align: center;
+}
+
+#word-element {
+    color: red;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    background: #f4f4f4;
+}
